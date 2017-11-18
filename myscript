@@ -1,0 +1,6 @@
+
+
+#!/bin/bash/
+
+echo "sososososososo"
+curl -u milo.volpicelli@live.com https://api.github.com/user/repos -d '{"name":"test"}'
